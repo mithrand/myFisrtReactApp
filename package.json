@@ -1,0 +1,35 @@
+{
+  "name": "myfirstreactapp",
+  "version": "0.0.1",
+  "description": "mi primera aplicacion react desde cero",
+  "main": "index.html",
+  "dependencies": {
+    "react": "^15.4.2",
+    "webpack": "^2.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.5",
+    "nodemon": "^1.11.0",
+    "ts-node": "^2.1.0",
+    "typescript": "^2.1.6"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "npm run build:live",
+    "build:live": "nodemon --exec ./node_modules/.bin/ts-node -- ./index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mithrand/myFisrtReactApp.git"
+  },
+  "keywords": [
+    "React",
+    "app"
+  ],
+  "author": "Antonio Muñoz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mithrand/myFisrtReactApp/issues"
+  },
+  "homepage": "https://github.com/mithrand/myFisrtReactApp#readme"
+}
