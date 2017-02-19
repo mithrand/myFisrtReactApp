@@ -10,13 +10,16 @@
   "devDependencies": {
     "@types/node": "^7.0.5",
     "nodemon": "^1.11.0",
+    "ts-loader": "^2.0.0",
     "ts-node": "^2.1.0",
-    "typescript": "^2.1.6"
+    "typescript": "^2.1.6",
+    "webpack": "^2.2.1"
   },
   "scripts": {
     "test": "test",
     "start": "npm run build:live",
-    "build:live": "nodemon --exec ./node_modules/.bin/ts-node -- ./index.ts"
+    "build:live": "nodemon",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
