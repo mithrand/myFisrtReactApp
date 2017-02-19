@@ -1,8 +1,6 @@
-/**
- * Created by Antonio on 19/02/2017.
- */
+import React from "react";
+import ReactDOM from "react";
 
+import ProductList from "./ProductList";
 
-import greeting from "./modulo";
-
-console.log(greeting);
+ReactDOM.render(<ProductList />,document.getElementById('content'));

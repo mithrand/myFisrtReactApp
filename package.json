@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "@types/node": "^7.0.5",
+    "express": "^4.14.1",
     "nodemon": "^1.11.0",
     "ts-loader": "^2.0.0",
     "ts-node": "^2.1.0",
@@ -19,7 +20,8 @@
     "test": "test",
     "start": "npm run build:live",
     "build:live": "nodemon",
-    "build": "webpack"
+    "build": "webpack",
+    "launch": "webpack & node express.js"
   },
   "repository": {
     "type": "git",
