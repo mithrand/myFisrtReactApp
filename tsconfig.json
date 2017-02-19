@@ -1,9 +1,16 @@
 {
     "compilerOptions": {
+        "jsx": "react",
         "module": "commonjs",
-        "target": "es5",
-        "noImplicitAny": false,
-        "sourceMap": false,
-        "jsx": "react"
-    }
+        "noImplicitAny": true,
+        "outDir": "./build/",
+        "preserveConstEnums": true,
+        "removeComments": true,
+        "target": "ES5"
+    },
+    "exclude": [
+        "node_modules",
+        "typings/browser.d.ts",
+        "typings/browser"
+    ]
 }

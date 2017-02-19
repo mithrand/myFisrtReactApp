@@ -1,6 +1,11 @@
-import React from "react";
-import ReactDOM from "react";
+// Remember to rename the file from app.ts to app.tsx
+// and to keep it in the src/ directory.
 
-import ProductList from "./ProductList";
+import * as React from "react";
+import * as ReactDOM from "react-dom";
+import Hello from "./Hello";
 
-ReactDOM.render(<ProductList />,document.getElementById('content'));
+ReactDOM.render(
+    <Hello name="Willson" />,
+    document.getElementById("root")
+);
