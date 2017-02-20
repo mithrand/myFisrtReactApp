@@ -1,0 +1,112 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="CheckNodeTest" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="CoffeeScriptArgumentsOutsideFunction" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="CoffeeScriptFunctionSignatures" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="CoffeeScriptInfiniteLoop" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="CoffeeScriptLiteralNotFunction" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="CoffeeScriptSillyAssignment" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="CoffeeScriptSwitchStatementWithNoDefaultBranch" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="CoffeeScriptUnusedLocalSymbols" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="CucumberExamplesColon" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="CucumberMissedExamples" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="CucumberTableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="CucumberUndefinedStep" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="DartOutdatedDependencies" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="DartPathPackageReference" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="GherkinBrokenTableInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="GherkinMisplacedBackground" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="HamlNestedTagContent" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="HardwiredNamespacePrefix" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="HbEmptyBlock" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="ImplicitTypeConversion" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="IndexZeroUsage" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="JSLint" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="JadeTabsAndSpaces" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="LessResolvedByNameOnly" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="LessUnresolvedMixin" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="LessUnresolvedVariable" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="MeteorUnresolvedSymbol" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="RedundantTypeConversion" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="SassScssResolvedByNameOnly" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+          <inspection_tool class="SassScssUnresolvedMixin" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="SassScssUnresolvedPlaceholderSelector" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="SassScssUnresolvedVariable" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false" />
+          <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="TsLint" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="UnresolvedReference" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="XsltDeclarations" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="XsltTemplateInvocation" enabled="false" level="ERROR" enabled_by_default="false" />
+          <inspection_tool class="XsltUnusedDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="XsltVariableShadowing" enabled="false" level="WARNING" enabled_by_default="false" />
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="JSLintConfiguration" json="true">
+        <option es6="true" />
+        <option maxerr="50" />
+      </component>
+      <component name="JavaScriptLibraryMappings">
+        <includedPredefinedLibrary name="Node.js Core" />
+      </component>
+      <component name="JsBowerSettings">
+        <exe-path />
+        <config-path />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>false</service-enabled>
+        <exe-path />
+        <annotation-enable>false</annotation-enable>
+        <other-services-enabled>false</other-services-enabled>
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="amunoz" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>File Watchers</id>
+              </State>
+              <State>
+                <id>XSLT</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>XSLT</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="ics" />
+        <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+        <property name="js.eslint.eslintPackage" value="" />
+        <property name="HbShouldOpenHtmlAsHb" value="" />
+        <property name="javascript.nodejs.core.library.configured.version" value="6.9.4" />
+        <property name="js.eslint.nodeInterpreter" value="project" />
+        <property name="js-tslint-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+        <property name="js-tslint-package" value="C:\Users\amunoz\AppData\Roaming\npm\node_modules\tslint" />
+        <property name="stylesheet.stylelint.nodeInterpreter" value="project" />
+        <property name="stylesheet.stylelint.stylelintPackage" value="$USER_HOME$/AppData/Roaming/npm/node_modules/stylelint" />
+        <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
